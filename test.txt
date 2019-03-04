@@ -1,1 +1,2 @@
 This is a good test file.
+It is easy to use.
