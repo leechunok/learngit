@@ -2,3 +2,4 @@ This is a good test file.
 It is easy to use.
 Third line.
 Add a branch.
+Add branch two.
