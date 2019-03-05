@@ -8,3 +8,4 @@ Add branch two.
 Add another branch.
 >>>>>>> feature1
 Third branch.
+add a bug
